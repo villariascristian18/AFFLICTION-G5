@@ -8,3 +8,5 @@ Members: Hervil Villarias
          Cray Lagon
 Purpose: To test GitHub repository collaboration and commits.
 Updated by: Lorraine Hinaut
+Updated by: Cherry Baroro
+
