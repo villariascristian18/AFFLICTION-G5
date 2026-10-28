@@ -12,7 +12,8 @@ This repository serves as the central location for our capstone project files, d
 
 - Christian Villarias
 - Lorraine
-- [Add other members' names]
+- Cherry
+- Cray
 
 ## Objectives
 
