@@ -1,0 +1,9 @@
+CAPSTONE PROJECT - GITHUB TEST FILE
+
+Project Title: AN AI-ASSISTED TRANSLATION SYSTEM FOR SUBANEN TO FILIPINO/ENGLISH 
+Course: BSIT
+Members: Hervil Villarias
+         Lorraine Hinaut
+         Cherry Baroro
+         Cray Lagon
+Purpose: To test GitHub repository collaboration and commits.
